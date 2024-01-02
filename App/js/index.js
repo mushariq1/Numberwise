@@ -30,6 +30,17 @@ xui.Class('App', 'xui.Module',{
                 .setCaption("Enter Artisan Name")
             );
             
+            append(
+                xui.create("xui.UI.Input")
+                .setHost(host,"xui_ui_input5")
+                .setLeft("6.095238095238095em")
+                .setTop("2.2857142857142856em")
+                .setWidth("22.552380952380954em")
+                .setHeight("2.361904761904762em")
+                .setLabelSize("8em")
+                .setMultiLines(true)
+            );
+            
             return children;
             // ]]Code created by CrossUI RAD Studio
         },
