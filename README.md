@@ -1,2 +1,10 @@
-# Numberwise
-software for a serial wise number for you customers
+## Numberwise
+Web app url : https://mushariq1.github.io/Numberwise
+
+This project was created by CrossUI No-Code App Builder: https://crossui.com/RADGithub
+
+Based on template: https://linb.github.io/CrossUI_Assets/assets/projects/Simple/xui_project_tpl_Empty
+
+Click [here](https://crossui.com/RADGithub/#!from=github&owner=mushariq1&repo=Numberwise) to edit this web app in CrossUI No-Code App Builder
+
+<i>Powered by [CrossUI](https://crossui.com)</i>
