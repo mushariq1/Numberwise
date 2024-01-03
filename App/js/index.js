@@ -41,6 +41,30 @@ xui.Class('App', 'xui.Module',{
                 .setMultiLines(true)
             );
             
+            append(
+                xui.create("xui.UI.Input")
+                .setHost(host,"xui_ui_input2")
+                .setLeft("6.095238095238095em")
+                .setTop("6.095238095238095em")
+                .setWidth("22.552380952380954em")
+                .setHeight("2.361904761904762em")
+                .setLabelSize("8em")
+                .setLabelCaption("Artisan Number   ")
+                .setMultiLines(true)
+            );
+            
+            append(
+                xui.create("xui.UI.Input")
+                .setHost(host,"xui_ui_input3")
+                .setLeft("6.095238095238095em")
+                .setTop("9.904761904761905em")
+                .setWidth("22.552380952380954em")
+                .setHeight("2.361904761904762em")
+                .setLabelSize("8em")
+                .setLabelCaption("Serial Number")
+                .setMultiLines(true)
+            );
+            
             return children;
             // ]]Code created by CrossUI RAD Studio
         },
